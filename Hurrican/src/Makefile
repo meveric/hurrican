@@ -345,7 +345,7 @@ install :
 	cp ../Hurrican.ico  /usr/local/share/Hurrican/hurrican.ico
 	cp ../hurrican.desktop /usr/local/share/applications/hurrican.desktop
 	cp ../english.lng /usr/local/share/Hurrican/
-	cp ../../hurican /usr/local/bin/
+	cp ../../hurrican /usr/local/bin/
 	touch /usr/local/share/Hurrican/Game_Log.txt
 	chmod 666  /usr/local/share/Hurrican/Game_Log.txt
 		
