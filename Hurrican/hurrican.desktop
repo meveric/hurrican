@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Hurrican
+GenericName=Clone of the legendary third person shooter Turrican
+Comment=Third Person Shooter Game
+Path=/usr/local/share/Hurrican/
+Exec=hurrican
+Icon=/usr/local/share/Hurrican/hurrican.ico
+Terminal=false
+Type=Application
+Categories=Game;ActionGame;
